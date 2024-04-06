@@ -1,0 +1,29 @@
+<svg width="167" height="79" viewBox="0 0 167 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<mask id="mask0_12842_219096" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-34" y="0" width="201" height="80">
+<rect width="200" height="79" transform="translate(-33.8516 0.000488281)" fill="url(#paint0_radial_12842_219096)"/>
+</mask>
+<g mask="url(#mask0_12842_219096)">
+<path d="M54.7891 -89.21L54.7891 76.7386" stroke="#ECECF2"/>
+<path d="M19.6328 -89.21L19.6328 76.7386" stroke="#ECECF2"/>
+<path d="M2.20703 -89.21L2.20704 76.7386" stroke="#ECECF2"/>
+<path d="M124.797 -89.21L124.797 76.7386" stroke="#ECECF2"/>
+<path d="M89.6406 -89.21L89.6406 76.7386" stroke="#ECECF2"/>
+<path d="M72.2109 -89.21L72.211 76.7386" stroke="#ECECF2"/>
+<path d="M37.0547 -89.21L37.0547 76.7386" stroke="#ECECF2"/>
+<path d="M142.219 -89.21L142.219 76.7386" stroke="#ECECF2"/>
+<path d="M107.062 -89.21L107.063 79.2109" stroke="#ECECF2"/>
+<path d="M-34.8516 7.56201L165.148 7.56199" stroke="#ECECF2"/>
+<path opacity="0.6" d="M-34.8516 42.8977L165.148 42.8977" stroke="#ECECF2"/>
+<path opacity="0.15" d="M-34.8516 78.5569L165.148 78.5569" stroke="#ECECF2"/>
+<path d="M-34.8516 25.1489L165.148 25.1489" stroke="#ECECF2"/>
+<path opacity="0.35" d="M-34.8516 60.4858L165.148 60.4858" stroke="#ECECF2"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_12842_219096" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 27) rotate(90) scale(30 52)">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
